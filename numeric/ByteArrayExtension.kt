@@ -123,4 +123,3 @@ fun ByteArray.toText( start: Int, length: Int ): String {
 
     return sb.toString()
 }
-
